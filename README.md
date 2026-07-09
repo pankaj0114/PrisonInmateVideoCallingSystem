@@ -168,8 +168,24 @@ Project: Prison Inmate Video Calling Management System
 <img width="1865" height="938" alt="Screenshot 2026-07-09 170351" src="https://github.com/user-attachments/assets/a77bb16e-fcc5-4b54-b356-2a60028d58c7" />
 
 
-## Prisoner Login Through Their Card Number And Admission date 
+## Prisoner Login Using Their Card Number And Admission date 
 <img width="1837" height="986" alt="Screenshot 2026-07-09 170701" src="https://github.com/user-attachments/assets/3d38621e-2e58-4542-a6b2-876b6ff456ad" />
+
+## Prisoner Dashboard
+<img width="1885" height="905" alt="Screenshot 2026-07-09 170747" src="https://github.com/user-attachments/assets/78a7c6b2-8574-4d88-bd59-04456c0d6ffb" />
+
+## Prisoner Intiate Call and SMS with Call Link sent to family member 
+<img width="1080" height="2400" alt="Screenshot_2026-07-09-17-09-34-198_com android mms" src="https://github.com/user-attachments/assets/94f5392a-faa2-461a-9ca4-e996aeafac48" />
+
+# Prisoner Join Call 
+<img width="1898" height="946" alt="Screenshot 2026-07-09 171004" src="https://github.com/user-attachments/assets/53f1a1a4-2383-4516-a594-f0e11126b904" />
+
+# Family member Join the Call through Call Link sent to SMS 
+<img width="1080" height="2400" alt="Screenshot_2026-07-09-17-09-45-894_com android chrome" src="https://github.com/user-attachments/assets/2b357c7e-f7fe-44cf-8682-6911bc07b147" />
+
+
+
+
 
 
 
