@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { supabase } from '../supabaseClient';
-import api from '../axiosConfig';
+//import api from '../axiosConfig';
 
 const PrisonerRegistration = () => {
   const [formData, setFormData] = useState({

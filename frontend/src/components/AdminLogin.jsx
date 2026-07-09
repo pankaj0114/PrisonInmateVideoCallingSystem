@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import jailLogo from '../assets/logos/chhattisgarh-jail.png';
 import axios from 'axios';
-import api from '../axiosConfig';
+//import api from '../axiosConfig';
 
 const AdminLogin = () => {
   const [email, setEmail] = useState('');
