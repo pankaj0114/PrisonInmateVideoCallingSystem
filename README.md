@@ -148,7 +148,7 @@ Project: Prison Inmate Video Calling Management System
 
 ---
 
-### Screenshots
+### 📸 Screenshots
 
 ## Contributing
 
