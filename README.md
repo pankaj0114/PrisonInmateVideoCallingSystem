@@ -185,6 +185,46 @@ Project: Prison Inmate Video Calling Management System
 
 
 
+### 📞 Usage
+Prisoner logs in to dashboard.
+
+Selects a family member and clicks audio or video call.
+
+Backend creates Twilio room, sends SMS with Netlify link.
+
+Both prisoner and family member open the link → join the Twilio room.
+
+Call auto‑records and closes after 15 minutes.
+
+---
+
+### 🔒 Security Notes
+Secrets (.env) must never be committed to GitHub.
+
+Use Render’s Environment Variables to store Twilio and MongoDB credentials.
+
+GitHub push protection will block commits containing sensitive keys.
+
+---
+
+### 📌 Roadmap
+Add call recording storage.
+
+Generate and export call reports.
+
+Role‑based authentication (Admin, Prisoner, Family).
+
+Balance deduction per call.
+
+---
+### 👨‍💻 Author
+Pankaj  
+Location: Yamunanagar, HR, India\
+Project: Prison Inmate Video Calling Management System
+
+
+
+
 
 
 
