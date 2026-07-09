@@ -149,6 +149,15 @@ Project: Prison Inmate Video Calling Management System
 ---
 
 ### 📸 Screenshots
+## First Page
+<img width="1903" height="937" alt="Screenshot 2026-07-09 164807" src="https://github.com/user-attachments/assets/94344bd9-c3a2-43cc-ae92-2d84c48f4ee8" />
+
+## Admin Login Page 
+<img width="1896" height="1023" alt="Screenshot 2026-07-09 165129" src="https://github.com/user-attachments/assets/72c9920b-3327-41c8-a037-5f1de21dc594" />
+
+## Admin Dashboard
+## Prisoner Registration
+## Print Details of Prisoner 
 
 
 ## Contributing
