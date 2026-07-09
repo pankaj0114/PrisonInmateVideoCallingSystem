@@ -43,7 +43,7 @@ const LoginSelection = () => {
           </button>
         </div>
 
-        {/* Prisoner Login */}
+        {/* Prisoner Login page */}
         <div className="bg-white shadow-xl rounded-xl p-6 w-60 text-center transform hover:scale-105 transition duration-300 ease-in-out">
           <FaUser className="text-gray-800 text-5xl mx-auto mb-3" />
           <h4 className="text-lg font-bold text-gray-800">Prisoner Login</h4>
