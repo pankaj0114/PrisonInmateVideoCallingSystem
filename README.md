@@ -156,10 +156,24 @@ Project: Prison Inmate Video Calling Management System
 <img width="1896" height="1023" alt="Screenshot 2026-07-09 165129" src="https://github.com/user-attachments/assets/72c9920b-3327-41c8-a037-5f1de21dc594" />
 <img width="1375" height="984" alt="Screenshot 2026-07-09 165228" src="https://github.com/user-attachments/assets/98ec798f-ee1a-4ab9-9615-92bbd0ca816d" />
 
-
 ## Admin Dashboard
+<img width="1900" height="917" alt="Screenshot 2026-07-09 165300" src="https://github.com/user-attachments/assets/3509545e-abae-4f14-9efd-ba0cb2069188" />
+
 ## Prisoner Registration
+<img width="1820" height="909" alt="Screenshot 2026-07-09 165353" src="https://github.com/user-attachments/assets/195f6e8a-5bb8-4aad-95e2-7be6c28aae6d" />
+<img width="1826" height="988" alt="Screenshot 2026-07-09 170316" src="https://github.com/user-attachments/assets/f0477610-4882-4b72-84dd-576fb870221b" />
+<img width="1851" height="933" alt="Screenshot 2026-07-09 170243" src="https://github.com/user-attachments/assets/1d04d892-8dc0-4843-8e7a-729ab00cc2ef" />
+
 ## Print Details of Prisoner 
+<img width="1865" height="938" alt="Screenshot 2026-07-09 170351" src="https://github.com/user-attachments/assets/a77bb16e-fcc5-4b54-b356-2a60028d58c7" />
+
+
+## Prisoner Login Through Their Card Number And Admission date 
+<img width="1837" height="986" alt="Screenshot 2026-07-09 170701" src="https://github.com/user-attachments/assets/3d38621e-2e58-4542-a6b2-876b6ff456ad" />
+
+
+
+## 
 
 
 ## Contributing
